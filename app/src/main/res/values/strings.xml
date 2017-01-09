@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name" translatable="false">TPMap</string>
+    <string name="bar_name" translatable="false">O\'Callaghan</string>
+    <string name="bar_slogan">Best beers in the world!</string>
+
+    <string name="title_activity_ocallaghan_map">O\'Callaghan\'s Location</string>
+    <string name="title_activity_ocallaghan_description">O\'Callaghan\'s Description</string>
+    <string name="title_activity_description">Information</string>
+
+    <string name="presentation_liters">Liters of beer consumed in 2016</string>
+    <string name="presentation_quantity" translatable="false">10325</string>
+
+    <string name="bar_phone_number">04 76 42 68 96</string>
+    <string name="bar_address">1 Place de Berulle, 38000 Grenoble</string>
+
+    <string name="jours_list">Monday\nTuesday\nWendesday\nThursday\nFriday\nSaturday\nSunday</string>
+    <string name="horaires">16h30 - 01h00\n16h30 - 01h00\n16h30 - 01h00\n16h30 - 01h00\n16h30 - 01h00\n15h00 - 01h00\n15h00 - 01h00</string>
+
+    <string name="day1">Monday</string>
+    <string name="day2">Tuesday</string>
+    <string name="day3">Wendesday</string>
+    <string name="day4">Thursday</string>
+    <string name="day5">Friday</string>
+    <string name="day6">Saturday</string>
+    <string name="day7">Sunday</string>
+
+    <string name="hour1">4:30pm - 1:00am</string>
+    <string name="hour2">3:00pm - 1:00am</string>
+
+    <string name="btn_website">Official Website</string>
+
+    <string name="random_msg_1">Stop this!!! please!</string>
+    <string name="random_msg_2">Are you nut? I\'m not a rattle!</string>
+    <string name="random_msg_3">What are you doing?!</string>
+    <string name="random_msg_4">You\'re going to break me! Stop it!</string>
+    <string name="random_msg_5">oahhhh, I\'m gonna get sick ...</string>
+
+</resources>
