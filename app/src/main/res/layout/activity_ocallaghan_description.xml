@@ -11,6 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:src="@drawable/pub"
+        android:contentDescription="@string/img_description_pub"
         android:scaleType="center"/>
 
     <LinearLayout
@@ -25,7 +26,8 @@
             android:layout_marginTop="@dimen/to_screen_border_min_spacing"
             android:layout_gravity="center"
             android:scaleType="centerInside"
-            android:src="@drawable/bieres"/>
+            android:src="@drawable/bieres"
+            android:contentDescription="@string/img_description_bieres"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -50,7 +52,6 @@
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1"
-            android:layout_below="@id/imageView"
             android:orientation="horizontal"
             android:gravity="center">
 
@@ -58,7 +59,8 @@
                 android:id="@+id/textView"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginRight="20dp"
+                android:layout_marginRight="@dimen/to_screen_border_min_spacing"
+                android:layout_marginEnd="@dimen/to_screen_border_min_spacing"
                 android:textColor="@android:color/white"
                 android:textStyle="bold"
                 android:textAppearance="@android:style/TextAppearance.Medium"

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name" translatable="false">TPMap</string>
+    <string name="app_name" translatable="false">GOCallaghan</string>
     <string name="bar_name" translatable="false">O\'Callaghan</string>
     <string name="bar_slogan">Best beers in the world!</string>
 
@@ -14,7 +14,7 @@
     <string name="bar_address">1 Place de Berulle, 38000 Grenoble</string>
 
     <string name="jours_list">Monday\nTuesday\nWendesday\nThursday\nFriday\nSaturday\nSunday</string>
-    <string name="horaires">16h30 - 01h00\n16h30 - 01h00\n16h30 - 01h00\n16h30 - 01h00\n16h30 - 01h00\n15h00 - 01h00\n15h00 - 01h00</string>
+    <string name="horaires">16h30 &#8211; 01h00\n16h30 &#8211; 01h00\n16h30 &#8211; 01h00\n16h30 &#8211; 01h00\n16h30 &#8211; 01h00\n15h00 &#8211; 01h00\n15h00 &#8211; 01h00</string>
 
     <string name="day1">Monday</string>
     <string name="day2">Tuesday</string>
@@ -24,8 +24,8 @@
     <string name="day6">Saturday</string>
     <string name="day7">Sunday</string>
 
-    <string name="hour1">4:30pm - 1:00am</string>
-    <string name="hour2">3:00pm - 1:00am</string>
+    <string name="hour1">4:30pm &#8211; 1:00am</string>
+    <string name="hour2">3:00pm &#8211; 1:00am</string>
 
     <string name="btn_website">Official Website</string>
 
@@ -33,6 +33,9 @@
     <string name="random_msg_2">Are you nut? I\'m not a rattle!</string>
     <string name="random_msg_3">What are you doing?!</string>
     <string name="random_msg_4">You\'re going to break me! Stop it!</string>
-    <string name="random_msg_5">oahhhh, I\'m gonna get sick ...</string>
+    <string name="random_msg_5">oahhhh, I\'m gonna get sick &#8230;</string>
+
+    <string name="img_description_bieres">Display of available beers and corresponding price</string>
+    <string name="img_description_pub">Inside view of the O\'Callaghan pub</string>
 
 </resources>

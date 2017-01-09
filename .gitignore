@@ -1,4 +1,6 @@
 *.iml
+*.class
+*.apk
 .gradle
 /local.properties
 /.idea/workspace.xml
@@ -6,5 +8,6 @@
 .DS_Store
 /build
 /captures
-/debug
+/app/src/debug
 .externalNativeBuild
+Thumbs.db

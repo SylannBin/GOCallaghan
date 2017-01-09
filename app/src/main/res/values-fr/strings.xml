@@ -9,7 +9,7 @@
     <string name="presentation_liters">Litres de bière consommés en 2016</string>
 
     <string name="jours_list">Lundi\nMardi\nMercredi\nJeudi\nVendredi\nSamedi\nDimanche</string>
-    <string name="horaires">16h30\ -\ 01h00\n16h30\ -\ 01h00\n16h30\ -\ 01h00\n16h30\ -\ 01h00\n16h30\ -\ 01h00\n15h00\ -\ 01h00\n15h00\ -\ 01h00</string>
+    <string name="horaires">16h30 &#8211; 01h00\n16h30 &#8211; 01h00\n16h30 &#8211; 01h00\n16h30 &#8211; 01h00\n16h30 &#8211; 01h00\n15h00 &#8211; 01h00\n15h00 &#8211; 01h00</string>
 
     <string name="btn_website">Site officiel</string>
     <string name="day1">Lundi</string>
@@ -20,12 +20,16 @@
     <string name="day6">Samedi</string>
     <string name="day7">Dimanche</string>
 
-    <string name="hour1">16h30 - 01h00</string>
-    <string name="hour2">15h00 - 01h00</string>
+    <string name="hour1">16h30 &#8211; 01h00</string>
+    <string name="hour2">15h00 &#8211; 01h00</string>
 
     <string name="random_msg_1">Arrête ça ! Je t\'en prie !</string>
     <string name="random_msg_2">T\'es dingue ? J\'suis pas un hochet !</string>
     <string name="random_msg_3">Qu\'est ce que tu fiches ?</string>
     <string name="random_msg_4">Tu va finir par me casser ! Arrête !</string>
     <string name="random_msg_5">oahhh, je sens que j\'vais être malade ..</string>
+
+    <string name="img_description_bieres">Pancarte affichant les bières disponibles et leur prix</string>
+    <string name="img_description_pub">Vue de l\'intérieur du bar O\'Callaghan</string>
+
 </resources>
